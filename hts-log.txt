@@ -1,0 +1,43 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 14 Jun 2022 14:59:38 at https://galvalum-dis.netlify.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://galvalum-dis.netlify.app/ -O1 "C:\My Web Sites\galvalum-dis.netlify.app" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:00:39	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Adisty/Downloads/lolwork/images/demo/acp.jpg (from https://galvalum-dis.netlify.app/)
+15:00:39	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Adisty/Downloads/lolwork/images/demo/atapgalvalum.jpg (from https://galvalum-dis.netlify.app/)
+15:00:39	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Adisty/Downloads/lolwork/images/demo/atapgelombang.jpg (from https://galvalum-dis.netlify.app/)
+15:00:39	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Adisty/Downloads/lolwork/images/demo/ataplengkung.jpg (from https://galvalum-dis.netlify.app/)
+15:00:39	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Adisty/Downloads/lolwork/images/demo/galvalum.jpg (from https://galvalum-dis.netlify.app/)
+15:00:39	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Adisty/Downloads/lolwork/images/demo/galvalumlembaran.jpg (from https://galvalum-dis.netlify.app/)
+15:00:39	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Adisty/Downloads/lolwork/images/demo/gentengmetal.jpg (from https://galvalum-dis.netlify.app/)
+15:00:43	Error: 	"Not Found" (404) at link https://galvalum-dis.netlify.app/pages/pages/ACP.html (from https://galvalum-dis.netlify.app/pages/acp)
+15:00:43	Error: 	"Not Found" (404) at link https://galvalum-dis.netlify.app/pages/pages/full-width.html (from https://galvalum-dis.netlify.app/pages/acp)
+15:00:43	Error: 	"Not Found" (404) at link https://galvalum-dis.netlify.app/pages/pages/Atap-Galvalum.html (from https://galvalum-dis.netlify.app/pages/atap-galvalum)
+15:00:43	Error: 	"Not Found" (404) at link https://galvalum-dis.netlify.app/pages/pages/Seng-Gelombang.html (from https://galvalum-dis.netlify.app/pages/atap-lengkung)
+15:00:43	Error: 	"Not Found" (404) at link https://galvalum-dis.netlify.app/pages/pages/Atap-Lengkung.html (from https://galvalum-dis.netlify.app/pages/atap-lengkung)
+15:00:43	Error: 	"Not Found" (404) at link https://galvalum-dis.netlify.app/pages/pages/Galvalum-Lembaran.html (from https://galvalum-dis.netlify.app/pages/galvalum-lembaran)
+15:00:43	Error: 	"Not Found" (404) at link https://galvalum-dis.netlify.app/pages/pages/Genteng-Metal.html (from https://galvalum-dis.netlify.app/pages/galvalum-lembaran)
+15:00:43	Error: 	"Not Found" (404) at link https://galvalum-dis.netlify.app/pages/pages/Hollow-Galvalum.html (from https://galvalum-dis.netlify.app/pages/galvalum-lembaran)
+15:00:43	Error: 	"Not Found" (404) at link https://galvalum-dis.netlify.app/pages/pages/Hollow-Galvanis.html (from https://galvalum-dis.netlify.app/pages/galvalum-lembaran)
+15:00:43	Error: 	"Not Found" (404) at link https://galvalum-dis.netlify.app/pages/pages/Pipa-Galvanis.html (from https://galvalum-dis.netlify.app/pages/galvalum-lembaran)
+15:00:43	Error: 	"Not Found" (404) at link https://galvalum-dis.netlify.app/pages/pages/Plat-Seng-Galvalum.html (from https://galvalum-dis.netlify.app/pages/galvalum-lembaran)
+15:00:43	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Adisty/Downloads/lolwork/images/demo/acp.jpg (from https://galvalum-dis.netlify.app/)
+15:00:43	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Adisty/Downloads/lolwork/images/demo/atapgalvalum.jpg (from https://galvalum-dis.netlify.app/)
+15:00:43	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Adisty/Downloads/lolwork/images/demo/atapgelombang.jpg (from https://galvalum-dis.netlify.app/)
+15:00:43	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Adisty/Downloads/lolwork/images/demo/ataplengkung.jpg (from https://galvalum-dis.netlify.app/)
+15:00:43	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Adisty/Downloads/lolwork/images/demo/galvalum.jpg (from https://galvalum-dis.netlify.app/)
+15:00:43	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Adisty/Downloads/lolwork/images/demo/galvalumlembaran.jpg (from https://galvalum-dis.netlify.app/)
+15:00:43	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Adisty/Downloads/lolwork/images/demo/gentengmetal.jpg (from https://galvalum-dis.netlify.app/)
+15:00:44	Error: 	"Unable to open local file" (-5) after 2 retries at link file:///C:/Users/Adisty/Downloads/lolwork/images/demo/acp.jpg (from https://galvalum-dis.netlify.app/)
+15:00:44	Error: 	"Unable to open local file" (-5) after 2 retries at link file:///C:/Users/Adisty/Downloads/lolwork/images/demo/atapgalvalum.jpg (from https://galvalum-dis.netlify.app/)
+15:00:44	Error: 	"Unable to open local file" (-5) after 2 retries at link file:///C:/Users/Adisty/Downloads/lolwork/images/demo/atapgelombang.jpg (from https://galvalum-dis.netlify.app/)
+15:00:44	Error: 	"Unable to open local file" (-5) after 2 retries at link file:///C:/Users/Adisty/Downloads/lolwork/images/demo/ataplengkung.jpg (from https://galvalum-dis.netlify.app/)
+15:00:44	Error: 	"Unable to open local file" (-5) after 2 retries at link file:///C:/Users/Adisty/Downloads/lolwork/images/demo/galvalum.jpg (from https://galvalum-dis.netlify.app/)
+15:00:44	Error: 	"Unable to open local file" (-5) after 2 retries at link file:///C:/Users/Adisty/Downloads/lolwork/images/demo/galvalumlembaran.jpg (from https://galvalum-dis.netlify.app/)
+15:00:44	Error: 	"Unable to open local file" (-5) after 2 retries at link file:///C:/Users/Adisty/Downloads/lolwork/images/demo/gentengmetal.jpg (from https://galvalum-dis.netlify.app/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 6 seconds : 79 links scanned, 46 files written (12397403 bytes overall) [3888698 bytes received at 58919 bytes/sec], 11003715 bytes transferred using HTTP compression in 34 files, ratio 12%
+(18 errors, 14 warnings, 0 messages)
